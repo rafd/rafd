@@ -2,7 +2,7 @@ I work full time on side-projects. Mostly web apps. Exclusively in Clojure.
 
 Currently, my main focus is on creating [a space for massively collaborative online ventures](https://www.bloomventures.io/wtf.html).
 
-Interested in learning Clojure? I host a [monthly Beginner's Chat with Clojure Toronto](https://www.meetup.com/Clojure-Toronto/) and a [weekly live-code session](https://www.notion.so/ClojoDojo-c60710d629ab4fc4877f526a790ec5bc) with ClojoDojo.
+Interested in learning Clojure? I host a monthly remote Beginner's Intro Workshop and a monthly remote Beginner's Practice "Dojo" via [the Clojure Toronto Meetup](https://www.meetup.com/Clojure-Toronto/).
 
 ## Talks
 
@@ -25,7 +25,7 @@ Occasionally, when I have something interesting on my mind, I attempt to distill
 
 ## Background
 
-One summer, when I was but a wee lad of 12, my mom won a spot at a programming course in a private college. She didn't stick with it, but I used the books she bought to learn the basics of HTML + CSS + JS + PHP and started making shitty websites for people. I moved on to making stuff with Flash, and then with Rails 1.0. Eventually, I developed a distate for magic, dabbled briefly with the early Node ecosystem, and eventually discovered the simplicity of Clojure, which has kept me happy for the last 8+ years.
+When I was 12, my mom won a spot at a programming course in a private college. She didn't stick with it, but I used the books she bought to learn the basics of HTML + CSS + JS + PHP and started making shitty websites for people (with heavy use of Flash animations). I discovered Rails, built a lot of little web apps with it, and also learned Ruby as a result. Eventually, I developed a distate for magic, dabbled briefly with the early Node ecosystem, and after being introduced to the simplicity of Clojure, it has kept me happy for the last 8+ years.
 
 I program mostly for the joy of creation. I make things mostly to explore ideas and to solve problems for myself or others.
 
