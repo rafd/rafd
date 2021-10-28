@@ -1,6 +1,6 @@
 I work full time on side-projects. Mostly web apps. Exclusively in Clojure.
 
-Currently, my main focus is on creating [a space for massively collaborative online ventures](https://www.bloomventures.io/wtf.html).
+Currently, my main focus is on creating [a space for massively collaborative online ventures](https://www.vntrhb.com).
 
 Interested in learning Clojure? I host a monthly remote Beginner's Intro Workshop and a monthly remote Beginner's Practice "Dojo" via [the Clojure Toronto Meetup](https://www.meetup.com/Clojure-Toronto/).
 
