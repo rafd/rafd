@@ -14,7 +14,7 @@ Occasionally, when I have something interesting on my mind, I attempt to distill
        
      "This is by far the best talk I've seen explaining functional programming" <- someone on YouTube, so you should definitely trust them
      
-- 📺 [Data-Oriented Programming](https://www.youtube.com/watch?v=8Kc55qOgGps
+- 📺 [Data-Oriented Programming](https://www.youtube.com/watch?v=8Kc55qOgGps)
 
      I try to distill "data-oriented programming" and "data-driven programming," as practised by the Clojure community.
    
