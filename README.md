@@ -1,4 +1,4 @@
-I work full time on side-projects. Mostly web apps. Exclusively in Clojure.
+I build ventures. Mostly web apps. Exclusively in Clojure.
 
 Currently, my main focus is on creating [a space for massively collaborative online ventures](https://www.vntrhb.com).
 
@@ -14,6 +14,10 @@ Occasionally, when I have something interesting on my mind, I attempt to distill
        
      "This is by far the best talk I've seen explaining functional programming" <- someone on YouTube, so you should definitely trust them
      
+- 📺 [Data-Oriented Programming](https://www.youtube.com/watch?v=8Kc55qOgGps
+
+     I try to distill "data-oriented programming" and "data-driven programming," as practised by the Clojure community.
+   
 - 📺 [Declarative Domain Logic](https://www.youtube.com/watch?v=TFQlpBEpeks)
 
     Domain Modeling via Data-Oriented programming in Clojure? 
@@ -25,7 +29,7 @@ Occasionally, when I have something interesting on my mind, I attempt to distill
 
 ## Background
 
-When I was 12, my mom won a spot at a programming course in a private college. She didn't stick with it, but I used the books she bought to learn the basics of HTML + CSS + JS + PHP and started making shitty websites for people (with heavy use of Flash animations). I discovered Rails, built a lot of little web apps with it, and also learned Ruby as a result. Eventually, I developed a distate for magic, dabbled briefly with the early Node ecosystem, and after being introduced to the simplicity of Clojure, it has kept me happy for the last 8+ years.
+When I was 12, my mom won a spot at a programming course at a tiny private college. She didn't stick with it, but I used the books she bought to learn the basics of HTML + CSS + JS + PHP and started making shitty websites for people (with heavy use of Flash animations). I discovered Rails, built a lot of little web apps with it, and also learned Ruby as a result. I dabbled with the early Node ecosystem, but after being introduced to the simplicity of Clojure, it has kept me happy for the last 8+ years.
 
 I program mostly for the joy of creation. I make things mostly to explore ideas and to solve problems for myself or others.
 
