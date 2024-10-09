@@ -1,8 +1,8 @@
 I build ventures. Mostly web apps. Exclusively in Clojure.
 
-Currently, my main focus is on recovering from burn-out ~~creating [a space for massively collaborative online ventures](https://www.vntrhb.com)~~.
+Currently, my main focus is on creating [a space for massively collaborative online ventures](https://www.vntrhb.com).
 
-Interested in learning Clojure? I host a weekly study group and a monthly mob programming session via [Clojure Camp](https://handbook.clojure.camp/).
+Interested in learning Clojure? I host a weekly mob sessions via [Clojure Camp](https://handbook.clojure.camp/).
 
 ## Talks
 
@@ -29,7 +29,7 @@ Occasionally, when I have something interesting on my mind, I attempt to distill
 
 ## Background
 
-When I was 12, my mom won a spot at a programming course at a tiny private college. She didn't stick with it, but I used the books she bought to learn the basics of HTML + CSS + JS + PHP and started making shitty websites for people (with heavy use of Flash animations). I discovered Rails, built a lot of little web apps with it, and also learned Ruby as a result. I made a single project with the early Node ecosystem, but after being introduced to the simplicity of Clojure, it has kept me happy for the last 8+ years.
+When I was 12, my mom won a spot at a programming course at a private college. She didn't stick with it, but I used the books she bought to learn the basics of HTML + CSS + JS + PHP and started making shitty websites for people (with heavy use of Flash animations). I discovered Rails, built a lot of little web apps with it, and also learned Ruby as a result. I made a single project with the early Node ecosystem, but after being introduced to the simplicity of Clojure, it has kept me happy for the last 10+ years.
 
 I program mostly for the joy of creation. I make things mostly to explore ideas and to solve problems for myself or others.
 
